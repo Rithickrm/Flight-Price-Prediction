@@ -30,7 +30,15 @@ Flight ticket prices change depending on factors such as airline, source, destin
 - Jupyter Notebook
 
 ## Project Structure
+## Project Results
 
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned and preprocessed flight price data
+- Applied feature encoding and transformation
+- Built a Machine Learning regression model
+- Evaluated the model using standard regression metrics
+- Identified important features influencing flight prices
+- Developed a system to predict flight ticket prices
 ```text
 Flight-Price-Prediction/
 │
@@ -42,11 +50,3 @@ Flight-Price-Prediction/
 ├── requirements.txt
 └── README.md
 ## Project Results
-
-- Performed Exploratory Data Analysis (EDA)
-- Cleaned and preprocessed flight price data
-- Applied feature encoding and transformation
-- Built a Machine Learning regression model
-- Evaluated the model using standard regression metrics
-- Identified important features influencing flight prices
-- Developed a system to predict flight ticket prices
