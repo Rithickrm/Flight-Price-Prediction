@@ -50,4 +50,13 @@ Flight-Price-Prediction/
 ├── Flight_Price_Prediction.ipynb
 ├── requirements.txt
 └── README.md
+```
+## Project Results
 
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned and preprocessed flight price data
+- Applied feature encoding and transformation
+- Built a Machine Learning regression model
+- Evaluated model performance
+- Identified important features influencing flight prices
+- Developed a system to predict flight ticket prices
