@@ -2,14 +2,20 @@
 
 ## Project Overview
 
-This project predicts flight ticket prices using Machine Learning.
+Flight Price Prediction is a Machine Learning project that predicts flight ticket prices based on various flight-related features.
+
+## Problem Statement
+
+Flight ticket prices change depending on factors such as airline, source, destination, journey details, duration, and timing. This project aims to analyze these factors and build a Machine Learning model to predict flight prices.
 
 ## Objectives
 
-- Analyze flight price data
-- Perform data preprocessing and feature engineering
-- Identify factors affecting flight prices
-- Build a Machine Learning model
+- Perform data analysis on flight price data
+- Clean and preprocess the dataset
+- Perform feature engineering
+- Analyze factors affecting flight prices
+- Build a Machine Learning prediction model
+- Evaluate model performance
 - Predict flight ticket prices
 
 ## Technologies Used
@@ -23,15 +29,15 @@ This project predicts flight ticket prices using Machine Learning.
 - Google Colab
 - Jupyter Notebook
 
-## Project Files
+## Project Structure
 
-- `Flight_Price_Prediction.ipynb` - Complete project notebook
-- `requirements.txt` - Required Python libraries
-
-## Machine Learning
-
-The project uses regression-based Machine Learning techniques to predict flight prices.
-
-## Author
-
-Rithick M
+```text
+Flight-Price-Prediction/
+│
+├── Data/
+├── Models/
+├── Results/
+├── Src/
+├── Flight_Price_Prediction.ipynb
+├── requirements.txt
+└── README.md
